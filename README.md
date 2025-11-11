@@ -32,7 +32,7 @@ A secure password management application built with a focus on user-friendly int
 - **Technologies:** C#, Windows Forms
 - **Features:** Secure password storage, encryption, user authentication
 - **Role:** Frontend Development & UI/UX Design
-- [View Project →](link-to-repo)
+- [View Project →](https://github.com/f23783/Password_Manager)
 
 ### 🌐 Web Development Project
 *Currently in progress - More details coming soon!*
@@ -40,12 +40,12 @@ A secure password management application built with a focus on user-friendly int
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EmireGungor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmireGungor&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmireGungor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🎯 Current Focus
@@ -68,22 +68,7 @@ A secure password management application built with a focus on user-friendly int
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=EmireGungor&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
   <br>
   <i>⚡ "The only way to do great work is to love what you do."</i>
-</div>## Hi there 👋
-
-<!--
-**EmireGungor/EmireGungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
