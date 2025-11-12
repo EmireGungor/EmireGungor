@@ -56,12 +56,14 @@ A secure password management application built with a focus on user-friendly int
 - 🌱 Learning new frameworks and technologies
 
 ## 📫 Connect with Me
-
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/emire-g%C3%BCng%C3%B6r-78b88631b/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]((https://ostimteknikuniversitesi-my.sharepoint.com/:w:/r/personal/230208025_ostimteknik_edu_tr/_layouts/15/Doc.aspx?sourcedoc=%7B66D92A6F-DF2B-4BEC-9A5E-1538BE7BA425%7D&file=Emire_Gungor_CV.docx&action=default&mobileredirect=true&DefaultItemOpen=1&wdOrigin=SEARCHENGINE.GOOGLE%2CAPPHOME-WEB.FILEBROWSER.RECENT&wdPreviousSession=26fc572b-78a8-41a8-997b-a80aeb190eb8&wdPreviousSessionSrc=AppHomeWeb&ct=1762933221202))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emire-güngör-78b88631b/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gungoremire28@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/EmireGungor/EmireGungor/blob/main/Emire_Gungor_CV.pdf)
+
+</div>
+
 
 </div>
 
