@@ -60,7 +60,8 @@ A secure password management application built with a focus on user-friendly int
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emire-güngör-78b88631b/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gungoremire28@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/EmireGungor/EmireGungor/blob/main/Emire_Gungor_CV.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/EmireGungor/EmireGungor/blob/main/Emire_Gungor_CV%20(1)%20(1).pdf)
+
 
 </div>
 
