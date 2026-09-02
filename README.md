@@ -1,77 +1,123 @@
-# Hi there, I'm Emire Güngör! 👋
+# Emire Güngör
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Passionate+About+Cybersecurity;Quick+Learner+%26+Hard+Worker" alt="Typing SVG" />
-</div>
+**Software Engineering Student | Java & Backend Development | Cybersecurity Interest**
 
-## 🎓 About Me
+I am a 3rd-year Software Engineering student at **OSTİM Technical University** with a **3.91/4.00 GPA**. I am building practical experience in Java application development, object-oriented design, backend-oriented software engineering, and secure software development.
 
-- 🏫 **2nd Year Software Engineering Student** at Ostim Technical University
-- 🏆 Finished freshman year as **2nd in the department**
-- 💻 Passionate about **Cybersecurity** and continuously expanding my knowledge
-- 🚀 Quick learner with strong work ethic and dedication
-- 🔐 Currently exploring security concepts and best practices
+I completed a **30-working-day supervised software engineering internship at ANKAREF İnovasyon ve Teknoloji A.Ş.**, where I developed two Java applications and worked with requirement analysis, validation, exception handling, persistence, manual testing, and mentor review cycles.
 
-## 🛠️ Tech Stack
+My current interests include **backend development, software engineering, system-oriented software, and cybersecurity**.
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Technical Skills
 
-### Tools & Technologies
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+### Programming Languages
 
-## 🚀 Featured Projects
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🔐 Password Manager Application
-A secure password management application built with a focus on user-friendly interface and security.
-- **Technologies:** C#, Windows Forms
-- **Features:** Secure password storage, encryption, user authentication
-- **Role:** Frontend Development & UI/UX Design
-- [View Project →](https://github.com/f23783/Password_Manager)
+### Technologies & Tools
 
-### 🌐 Web Development Project
-*Currently in progress - More details coming soon!*
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Stats
+### Software Engineering
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmireGungor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmireGungor&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</div>
+- Object-Oriented Programming
+- Data Structures & Algorithms fundamentals
+- Layered application design
+- Input validation & exception handling
+- File / JSON persistence
+- Manual scenario and boundary testing
+- Git-based version control
+- Agile / Iterative development practices
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmireGungor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+## Featured Projects
 
-## 🎯 Current Focus
+### [Rent a Car System](https://github.com/EmireGungor/rent-a-car-system)
 
-- 🔒 Diving deeper into **Cybersecurity** fundamentals
-- 📚 Enhancing my knowledge in **Data Structures & Algorithms**
-- 🛠️ Building practical projects to apply theoretical knowledge
-- 🌱 Learning new frameworks and technologies
+Java 17 and Maven based vehicle rental management application built with a layered structure.
 
-## 📫 Connect with Me
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emire-güngör-78b88631b/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gungoremire28@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/EmireGungor/EmireGungor/blob/main/Emire_Gungor_CV%20(1)%20(1).pdf)
+**Highlights:**
+- `Vehicle` abstraction with `Car` and `Motorcycle` implementations
+- Service layer for rental business rules
+- Custom business-exception hierarchy
+- DTO-based rental results
+- Gson / JSON persistence
+- Vehicle status management with enums
+- Input validation and manual boundary testing
 
-
-</div>
-
-
-</div>
+**Stack:** Java 17 · Maven · Gson · JSON
 
 ---
 
+### [Banking Management System](https://github.com/EmireGungor/banking-management-system)
+
+Console-based Java banking application focused on object-oriented design, validation, and business-rule modelling.
+
+**Highlights:**
+- Abstract `Account` hierarchy
+- `CheckingAccount` and `SavingsAccount` specializations
+- Encapsulated balance management
+- `HashMap` based account storage and lookup
+- `LocalDate` based maturity and daily-withdrawal rules
+- Notification abstraction through `NotificationService`
+
+**Stack:** Java · Java Standard Library
+
+---
+
+### KRONOS — Unified Academic Operating System
+
+University Software Engineering project completed in an 8-member team. I worked as **Process Specialist**, contributing to Agile/Iterative SDLC selection, sprint planning, task flow, quality control, traceability, and Definition of Done practices.
+
+**Focus:** Software Engineering Process · Agile/Iterative SDLC · Kanban · Traceability · Quality Assurance
+
+## Experience
+
+### Software Engineering Intern — ANKAREF İnovasyon ve Teknoloji A.Ş.
+**Jun 2026 – Jul 2026 | 30 working days | Remote**
+
+- Developed two supervised Java applications: Banking Management System and Rent a Car System
+- Practiced requirement analysis, OOP, data structures, validation, exception handling, and persistence
+- Followed an iterative workflow of design → implementation → manual testing → reporting → revision
+- Incorporated mentor feedback throughout the development process
+
+## Certifications
+
+- **Pre Security Learning Path** — TryHackMe, 2026
+- **Networking Devices and Initial Configuration** — Cisco Networking Academy, 2026
+- **Ethical Hacker** — Cisco Networking Academy, 2025
+- **Version Control: Git and GitHub** — BTK Akademi, 2024
+
+## Current Focus
+
+- Developing practical cybersecurity and secure-software skills
+- Strengthening Java and backend development skills
+- Improving data structures and algorithms knowledge
+- Learning more about system-oriented and low-level software development
+- Building projects that demonstrate software engineering fundamentals rather than only framework usage
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmireGungor&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-  <br>
-  <i>⚡ "The only way to do great work is to love what you do."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=EmireGungor&show_icons=true&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmireGungor&layout=compact&hide_border=true" alt="Top Languages" height="165" />
 </div>
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emire%20G%C3%BCng%C3%B6r-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emire-g%C3%BCng%C3%B6r-78b88631b/)
+[![GitHub](https://img.shields.io/badge/GitHub-EmireGungor-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EmireGungor)
+[![Email](https://img.shields.io/badge/Email-emiregungor0%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emiregungor0@gmail.com)
+
+---
+
+*Open to learning opportunities in software engineering, backend development, system-oriented software, and cybersecurity.*
