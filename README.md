@@ -116,6 +116,7 @@ University Software Engineering project completed in an 8-member team. I worked 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emire%20G%C3%BCng%C3%B6r-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emire-g%C3%BCng%C3%B6r-78b88631b/)
 [![GitHub](https://img.shields.io/badge/GitHub-EmireGungor-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EmireGungor)
+[![CV](https://img.shields.io/badge/CV-View%20PDF-2F80ED?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./Emire_Gungor_CV_EN_2026.pdf)
 [![Email](https://img.shields.io/badge/Email-emiregungor0%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emiregungor0@gmail.com)
 
 ---
