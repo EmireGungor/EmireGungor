@@ -4,6 +4,8 @@
 
 I am a 3rd-year Software Engineering student at **OSTİM Technical University** with a **3.91/4.00 GPA**. I am building practical experience in Java application development, object-oriented design, backend-oriented software engineering, and secure software development.
 
+I am currently taking part in **Türkiye's Siber Vatan (Cyber Homeland) Program**, and I learn cybersecurity hands-on by building my own security tools in Python.
+
 I completed a **30-working-day supervised software engineering internship at ANKAREF İnovasyon ve Teknoloji A.Ş.**, where I developed two Java applications and worked with requirement analysis, validation, exception handling, persistence, manual testing, and mentor review cycles.
 
 My current interests include **backend development, software engineering, system-oriented software, and cybersecurity**.
@@ -13,6 +15,7 @@ My current interests include **backend development, software engineering, system
 ### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -24,7 +27,7 @@ My current interests include **backend development, software engineering, system
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
@@ -39,7 +42,29 @@ My current interests include **backend development, software engineering, system
 - Git-based version control
 - Agile / Iterative development practices
 
+### Security & Networking
+
+- TCP/IP fundamentals and socket programming
+- Port scanning and service banner grabbing
+- Cisco network device configuration basics
+- Ethical hacking fundamentals (lab environments only)
+
 ## Featured Projects
+
+### [Network Port Scanner & Service Banner Grabber](https://github.com/EmireGungor/python-port-scanner)
+
+Python command-line tool for TCP connect scanning and basic service identification, built as a hands-on cybersecurity learning project.
+
+**Highlights:**
+- TCP connect scanning with `socket.connect_ex()` and per-port timeouts
+- Banner grabbing on open ports, with an HTTP `HEAD` probe
+- `argparse`-based CLI for target host and port range
+- Black-box tests against local fake services (`unittest`)
+- Documented known limitations; tested only in my own lab environment
+
+**Stack:** Python · socket · argparse · unittest · Linux (Ubuntu / VirtualBox)
+
+---
 
 ### [Rent a Car System](https://github.com/EmireGungor/rent-a-car-system)
 
@@ -92,6 +117,7 @@ University Software Engineering project completed in an 8-member team. I worked 
 
 ## Certifications
 
+- **Siber Vatan (Cyber Homeland) Program** — Türkiye, 2026 – present
 - **Pre Security Learning Path** — TryHackMe, 2026
 - **Networking Devices and Initial Configuration** — Cisco Networking Academy, 2026
 - **Ethical Hacker** — Cisco Networking Academy, 2025
@@ -116,7 +142,7 @@ University Software Engineering project completed in an 8-member team. I worked 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emire%20G%C3%BCng%C3%B6r-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emire-g%C3%BCng%C3%B6r-78b88631b/)
 [![GitHub](https://img.shields.io/badge/GitHub-EmireGungor-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EmireGungor)
-[![CV](https://img.shields.io/badge/CV-View%20PDF-2F80ED?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./Emire_Gungor_CV_EN_2026.pdf)
+[![CV](https://img.shields.io/badge/CV-View%20PDF-2F80ED?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./Emire_Gungor_CV_EN.pdf)
 [![Email](https://img.shields.io/badge/Email-emiregungor0%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emiregungor0@gmail.com)
 
 ---
